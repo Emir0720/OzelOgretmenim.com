@@ -1,6 +1,5 @@
 # Öğretmen-Öğrenci İletişim Platformu
 
-Bu proje, yazılım mühendisliği dersinin dönem projesidir. Proje, Ali Turgut (Back-end), Ali Emir Şahin (Front-end), Abdulsamet Aydınhan (Front-end) ve Atalay Berk Çırak (Back-end) tarafından 4 kişi tarafından yapılmıştır.
 
 Bu site, öğretmenler ile öğrencileri bir araya getiren bir platformdur. Öğretmenler siteye kayıt olabilir, profil sayfaları oluşturabilir ve ilanlar yayınlayarak öğrencilerle iletişime geçebilirler. Öğrenciler ise ilanları görüntüleyebilir ve öğretmenlerle iletişime geçebilir.
 
