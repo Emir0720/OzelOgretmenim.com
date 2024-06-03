@@ -5,7 +5,7 @@ Bu site, öğretmenler ile öğrencileri bir araya getiren bir platformdur. Öğ
 
 <div style="display: flex; flex-wrap: wrap;">
     <img src="images/anasayfa.png" alt="Anasayfa" style="max-width: 100%; height: auto; margin-right: 10px;"/>
-    <img src="images/ilan-sayfasi.png" alt="Ilanlar" style="max-width: 100%; height: auto; margin-right: 10px;"/>
+    <img src="images/İlanlar.jpeg" alt="Ilanlar" style="max-width: 100%; height: auto; margin-right: 10px;"/>
     <img src="images/kayit-sayfasi.png" alt="Kayit" style="max-width: 100%; height: auto; margin-right: 10px;"/>
     <img src="images/hakkında-sayfasi.png" alt="Hakkinda" style="max-width: 100%; height: auto; margin-right: 10px;"/>
     <img src="images/girisyap-sayfasi.png" alt="GirisYap" style="max-width: 100%; height: auto; margin-right: 10px;"/>
